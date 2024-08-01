@@ -1,0 +1,40 @@
+
+.Conteiner{
+    background-color: rgb(39, 24, 104);
+    width:30%;
+    margin:0% auto;
+    margin-top: 100px;
+    padding:20px;
+    border: 1px solid gray;
+    color: aliceblue;
+    border-radius: 8px;
+    box-shadow: 0px 0px 8px gray;
+} 
+
+body{
+    background-color: rgba(108, 93, 93, 0.146);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.backimg{
+    background-image: url(../img/WhatsApp\ Image\ 2024-07-31\ at\ 1.47.14\ PM.jpeg);
+
+ }
+
+h1{
+    
+ margin: 0px;
+ margin-top: 10%;
+text-align: center;
+}
+
+button{
+    background-color: blue;
+    color: aliceblue;
+    border: none;
+    padding: 6px;
+    margin-top: 5px;
+    border-radius: 6px;
+    cursor:pointer;
+}
+    
